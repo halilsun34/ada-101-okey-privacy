@@ -28,7 +28,7 @@ Uygulamamız hiçbir kişisel bilgi toplamadığından dolayı çocukların çev
 
 ### 6. İletişim
 Gizlilik politikamızla ilgili tüm soru ve geri bildirimleriniz için:  
-**E-posta:** `narekisisi@gmail.com`
+**E-posta:** `bmhalilibrahim@gmail.com`
 
 ---
 
@@ -55,4 +55,4 @@ Because we collect no personal data whatsoever, our application fully complies w
 
 ### 6. Contact Us
 For any inquiries regarding this Privacy Policy, please reach out to:  
-**Email:** `narekisisi@gmail.com`
+**Email:** `bmhalilibrahim@gmail.com`
